@@ -107,3 +107,18 @@
   color: #c200ff;
   margin: 35px 20px 35px 0;
 }
+.profile-details h5,
+p {
+  color: #555;
+}
+
+.btn-follow {
+  background: #c200ff;
+  border: 2px solid #fff;
+  color: #fff;
+  width: 140px;
+  height: 40px;
+  margin-top: 54px;
+  margin-bottom: 14px;
+  border-radius: 50px;
+}
