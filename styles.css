@@ -138,3 +138,8 @@ p {
   width: 84%;
   min-width: 350px;
 }
+.footer {
+  padding: 50px 0 20px;
+  background-image: linear-gradient(#c847f1, #380231);
+  margin-top: 200px;
+}
